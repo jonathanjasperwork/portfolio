@@ -44,6 +44,14 @@ function Home() {
             GitHub ↗
           </a>
 
+          <a
+            href="https://www.linkedin.com/in/jonathan-jasper-id/"
+            target="_blank"
+            rel="noreferrer"
+            className="button"
+          >
+            Linkedin ↗
+          </a>
         </div>
 
       </div>
