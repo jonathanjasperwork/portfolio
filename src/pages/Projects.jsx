@@ -5,7 +5,7 @@ const projects = [
   {
     number: "01",
     type: "DATA ANALYTICS",
-    title: "pedal-analytics-dashboard",
+    title: "Pedal Analytics Dashboard",
     year: "October 2026",
     status: "COMPLETED",
 
@@ -25,7 +25,7 @@ const projects = [
   {
     number: "02",
     type: "DATA ANALYTICS + SECURITY",
-    title: "honeypot-lab",
+    title: "Honeypot Lab",
     year: "October 2026",
     status: "COMPLETED",
 

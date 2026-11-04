@@ -36,7 +36,7 @@ function Home() {
           <Link to="/about" className="button">About</Link>
 
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/jonathanjasperwork"
             target="_blank"
             rel="noreferrer"
             className="button"
